@@ -1,4 +1,8 @@
+allure-behave==2.6.2
+allure-python-commons==2.6.2
+attrs==19.1.0
 behave==1.2.6
 parse==1.12.0
 parse-type==0.4.2
+pluggy==0.9.0
 six==1.12.0
